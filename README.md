@@ -1,6 +1,6 @@
 # Assignment Tracker
 
-![Assignment Tracker]([https://placehold.it/1200x630](https://png.pngtree.com/png-vector/20190501/ourmid/pngtree-vector-assignment-icon-png-image_1008975.jpg))
+![Assignment Tracker](http://localhost:3000/dashboard)
 
 ## Overview
 
